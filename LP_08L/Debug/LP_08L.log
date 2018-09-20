@@ -1,0 +1,25 @@
+﻿Сборка начата 09.05.2018 17:52:07.
+     1>Проект "E:\LP_08L\LP_08L\LP_08L.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Создание "Debug\LP_08L.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         E:\Visual\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yc"stdafx.h" /Fp"Debug\LP_08L.pch" /Fo"Debug\\" /Fd"Debug\LP_08L.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\Visual\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\CL.exe /c /ZI /nologo /W3 /WX- /diagnostics:classic /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\LP_08L.pch" /Fo"Debug\\" /Fd"Debug\LP_08L.pdb" /Gd /TP /analyze- /errorReport:prompt Dictionary.cpp
+         Dictionary.cpp
+       Lib:
+         E:\Visual\VC\Tools\MSVC\14.12.25827\bin\HostX86\x86\Lib.exe /OUT:"E:\LP_08\Debug\LP_08L.lib" /NOLOGO Debug\Dictionary.obj
+         Debug\stdafx.obj
+         LP_08L.vcxproj -> E:\LP_08\Debug\LP_08L.lib
+       CopyFilesToOutputDirectory:
+         Копирование файла из "Debug\LP_08L.pdb" в "E:\LP_08\Debug\LP_08L.pdb".
+       FinalizeBuildStatus:
+         Файл "Debug\LP_08L.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "Debug\LP_08L.tlog\LP_08L.lastbuildstate".
+     1>Сборка проекта "E:\LP_08L\LP_08L\LP_08L.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:02.09
